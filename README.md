@@ -1,4 +1,11 @@
-### Hi there 👋
+
+
+### 👋 Hi, I’m JongMin Jeon
+### 👀 I’m interested in ... 
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
 
 ### This is my github Page url: https://clerknek.github.io/
 - I usually wrote about machine learning which I'm studying in Korean
