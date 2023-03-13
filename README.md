@@ -11,6 +11,10 @@
 - I usually wrote about machine learning which I'm studying in Korean
 - ✨✨✨✨✨
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clerknek&layout=compact&langs_count=10&bg_color=ffffff00&text_color=718096&hide_border=true" height="150" alt="most_used_langs">
+
+
 <!--
 **clerknek/clerknek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
