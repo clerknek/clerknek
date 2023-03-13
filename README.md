@@ -14,8 +14,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clerknek&layout=compact&langs_count=10&bg_color=ffffff00&text_color=718096&hide_progress=true" height="250" alt="most_used_langs">
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=clerknek)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **clerknek/clerknek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
