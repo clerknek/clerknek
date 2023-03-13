@@ -12,7 +12,7 @@
 - ✨✨✨✨✨
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clerknek&layout=compact&langs_count=10&bg_color=ffffff00&text_color=718096&hide_border=true" height="300" alt="most_used_langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clerknek&layout=compact&langs_count=10&bg_color=ffffff00&text_color=718096&hide_border=true" height="250" alt="most_used_langs">
 
 
 <!--
