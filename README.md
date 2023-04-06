@@ -8,7 +8,7 @@
 
 
 ### This is my github Page url: https://clerknek.github.io/
-- I usually wrote about machine learning which I'm studying in Korean
+- I usually wrote about programming language which I'm studying
 - ✨✨✨✨✨
 
 
