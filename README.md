@@ -1,15 +1,27 @@
 
 
-### 👋 Hi, I’m JongMin Jeon
-### 👀 I’m interested in ... 
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 
-### This is my github Page url: https://clerknek.github.io/
-- I usually wrote about programming language which I'm studying
-- ✨✨✨✨✨
+![Header](./assets/img/github-header-image.png)
+### 👀 I’m usually use ... 
+
+<!-- <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="63" height="63" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="63" height="63" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="63" height="63" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="63" height="63" /></div> -->
+
+![My Skills](https://skillicons.dev/icons?i=py,github,markdown,unity&theme=light)
+
+### I learned about ...
+
+![I Learned](https://skillicons.dev/icons?i=java,flutter,androidstudio,sqlite,arduino&theme=light)
+
+
+
+
+<!-- <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> -->
+
+
+### ✨✨This is my github Page url: https://clerknek.github.io/ ✨✨
+
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clerknek&layout=compact&langs_count=10&bg_color=ffffff00&text_color=718096&hide_progress=true" height="250" alt="most_used_langs">
