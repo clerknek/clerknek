@@ -7,11 +7,11 @@
 
 <!-- <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="63" height="63" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="63" height="63" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="63" height="63" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="63" height="63" /></div> -->
 
-![My Skills](https://skillicons.dev/icons?i=py,github,markdown,unity&theme=light)
+![My Skills](https://skillicons.dev/icons?i=py,js,cs,dotnet,html&theme=light)
 
 ### I learned about ...
 
-![I Learned](https://skillicons.dev/icons?i=java,flutter,androidstudio,sqlite,arduino&theme=light)
+![I Learned](https://skillicons.dev/icons?i=java,flutter,androidstudio,react,ts&theme=light)
 
 
 
